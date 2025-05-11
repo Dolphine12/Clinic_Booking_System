@@ -94,11 +94,15 @@ It can also be integrated with:
    GRANT SELECT ON clinic_system.* TO 'doctor'@'localhost';
 
 ## 🔮 Future Improvements
-✅ Email/SMS Notifications – for appointment reminders and confirmations
-✅ Web Frontend Interface – using HTML, CSS, and JavaScript (or React/Vue)
-✅ Doctor Availability Scheduling – manage availability per week
-✅ Multi-Branch Support – for organizations with multiple clinics
-✅ Medical History Module – tracking diagnoses, prescriptions, and test results
+✅ Email/SMS Notifications – for appointment reminders and confirmations.
+
+✅ Web Frontend Interface – using HTML, CSS, and JavaScript (or React/Vue).
+
+✅ Doctor Availability Scheduling – manage availability per week.
+
+✅ Multi-Branch Support – for organizations with multiple clinics.
+
+✅ Medical History Module – tracking diagnoses, prescriptions, and test results.
 
 
 
