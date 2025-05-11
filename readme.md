@@ -27,7 +27,7 @@ This system is designed for:
 ---
 
 ## 🖼️ Entity Relationship Diagram (ERD)
-![ERD Diagram](/Clinic_Booking_System.drawio.png.png)
+![ERD Diagram](/Clinic_Booking_System.drawio.png)
  
 ### Table Relationship:
 -**Patients**: Each patient can have multiple appointments but with one doctor at a time.
